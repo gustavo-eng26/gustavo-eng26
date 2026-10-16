@@ -2,7 +2,7 @@
 
 **`ESTUDANTE DE TECNOLOGIA`**
 
-Me chamo Gustavo Henrique do Nascimento Gonçalves, tenho 18 anos. Concluí o ensino médio em Lima Duarte -MG. Atualmente, estou cursando Engenharia de Software no Centro Universitário Academia (Uniacademia) em Juiz de Fora-MG. Sou um entusiasta por tecnologia e compartilho meu conhecimento através do meu perfil no Linkedin "[Gustavo Henrique](www.linkedin.com/in/gustavo-henriqueng)", onde busco minha primeira oportunidade na área de tecnologia, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Gustavo Henrique do Nascimento Gonçalves, tenho 18 anos. Concluí o ensino médio em Lima Duarte -MG. Atualmente, estou cursando Engenharia de Software no Centro Universitário Academia (Uniacademia) em Juiz de Fora-MG. Sou um entusiasta por tecnologia e compartilho meu conhecimento através do meu perfil no Linkedin "[Gustavo Henrique](www.linkedin.com/in/gustavo-henriqueng)", onde busco minha primeira oportunidade na área de tecnologia, e também através do Instagram, com o perfil chamado "[gustavoeng.dev](https://www.instagram.com/dev_em_dev/)".
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/gustavo-henriqueng" target="_blank"> <img alt="LinkedIn - Gustavo Henrique" title="Me mande uma conexão" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
